@@ -1,5 +1,11 @@
 # IT Audit & Control Testing – Practical Artifacts
 
+## Scope & Representation
+
+This repository demonstrates representative audit coverage across core IT control domains. The artifacts are intentionally scoped to illustrate audit methodology, judgment, and evidence evaluation rather than exhaustively modeling all IT functions.
+
+The audit approach shown here can be consistently applied across additional domains using the same lifecycle and testing principles.
+
 ## Overview
 This repository demonstrates a practical, real-world approach to IT audit and control testing in regulated environments. The focus is on independently assessing the design and operating effectiveness of IT controls through evidence evaluation, sampling, and documentation.
 
